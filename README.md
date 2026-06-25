@@ -124,7 +124,7 @@ Reference and bias electrodes should be placed at **A1/A2** (earlobes) or **SRB2
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        Neurofeedback (QMainWindow)              │
+│                        Affective Computing                      │
 │                                                                 │
 │  ┌─────────────────────────────┐   ┌─────────────────────────┐  │
 │  │        ScopeWidget          │   │      AffectivePanel     │  │
