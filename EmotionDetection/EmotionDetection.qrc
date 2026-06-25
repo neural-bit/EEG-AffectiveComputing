@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/EmotionDetection">
+        <file>app.png</file>
+    </qresource>
+</RCC>
